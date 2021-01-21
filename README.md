@@ -16,7 +16,7 @@ This project must be deployed only in a web server.
 
 ## How to contribute
 
-Send us a couple of dollars to  MyDollarBox.com
+Please fork this repository and then issue Pull Requests for review
 
 ### Copyright
 
