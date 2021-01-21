@@ -12,6 +12,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+This project must be deployed only in a web server.
 
 ## How to contribute
 
+Send us a couple of dollars to  MyDollarBox.com
