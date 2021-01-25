@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository contains a simple website project for showing how Git and GitHub work.
-Nueva rama test-branch
+
 
 ## Introduction
 
@@ -14,6 +14,9 @@ Sample website with plenty of files for demos
 ## Deployment
 
 This project must be deployed only in a web server.
+Nueva rama test-branch.
+
+### Updates form Dev 1
 
 ## How to contribute
 
